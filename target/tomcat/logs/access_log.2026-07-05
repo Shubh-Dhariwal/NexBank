@@ -1,9 +1,0 @@
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:42:42 +0530] "GET /banking/api/dashboard HTTP/1.1" 200 2801 http-bio-8080-exec-1 153
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:06 +0530] "GET /banking/ HTTP/1.1" 200 9424 http-bio-8080-exec-3 1699
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:07 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:11 +0530] "GET /banking/index.jsp?username=&password= HTTP/1.1" 200 15106 http-bio-8080-exec-6 202
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:11 +0530] "GET /banking/css/style.css HTTP/1.1" 200 15376 http-bio-8080-exec-7 19
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:11 +0530] "GET /banking/js/main.js HTTP/1.1" 200 18977 http-bio-8080-exec-4 19
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:11 +0530] "GET /banking/api/dashboard HTTP/1.1" 200 2801 http-bio-8080-exec-9 11
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:16 +0530] "GET /banking/api/accounts HTTP/1.1" 200 830 http-bio-8080-exec-10 5
-0:0:0:0:0:0:0:1 - - [05/Jul/2026:10:43:18 +0530] "GET /banking/api/transactions HTTP/1.1" 200 1820 http-bio-8080-exec-10 5

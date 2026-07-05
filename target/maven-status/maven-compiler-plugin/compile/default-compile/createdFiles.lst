@@ -1,8 +1,0 @@
-com\banking\servlet\CharsetFilter.class
-com\banking\util\DataStore.class
-com\banking\servlet\DashboardServlet.class
-com\banking\model\Transaction.class
-com\banking\servlet\TransactionServlet.class
-com\banking\model\Account.class
-com\banking\servlet\AccountServlet.class
-com\banking\util\JsonUtil.class
