@@ -11,7 +11,17 @@ No external database required — uses an in-memory data store pre-seeded with d
 
 ---
 
+## Screenshots
+
+![Login](Screenshots/Login.png)
+![Dashboard](Screenshots/Dashboard.png)
+![Accounts](Screenshots/Accounts.png)
+![Fund Transfer](Screenshots/FundTransfer.png)
+![Transaction](Screenshots/Transaction.png)
+
 ## 📁 Project Structure
+
+---
 
 ```
 BankingSystem/
